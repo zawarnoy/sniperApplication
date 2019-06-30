@@ -11,7 +11,7 @@
                                 <h5 class="mb-0">
                                     <a class="btn btn-link" data-toggle="collapse" data-target="#collapse0"
                                        aria-expanded="true" aria-controls="collapse0">
-                                        Название оружия
+                                        Выберите оружие
                                     </a>
                                     <a class="btn btn-danger float-right delete-element">Del</a>
                                 </h5>
