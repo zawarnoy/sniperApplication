@@ -12,4 +12,14 @@ class OrderController extends Controller
         return view('order.index');
     }
 
+    public function client(Request $request)
+    {
+        return view('order.client');
+    }
+
+    public function certificate(Request $request)
+    {
+        return view('order.certificate');
+    }
+
 }
